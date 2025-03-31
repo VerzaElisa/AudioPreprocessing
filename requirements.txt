@@ -1,0 +1,9 @@
+scipy >= 1.15.2
+torch >= 2.6.0
+torchvision
+pandas >= 2.2.3
+numpy >= 2.2.3
+matplotlib
+tensorboard
+torchsummary
+tqdm
